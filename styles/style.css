@@ -1,0 +1,37 @@
+main {
+    width: 400px;
+}
+
+h1 {
+    color: #e74c3c;
+}
+
+h2 {
+    color: #6c3483;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: upper-roman;
+    color: #e723a9;
+    text-decoration: underline;
+}
+
+.black_text_color {
+    color: black;
+}
